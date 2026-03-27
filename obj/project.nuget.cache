@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "3yHAzVdgfQs=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\yran\\Desktop\\Faculdade\\Esteban Rivas\\EXERCÍCIOS DE VETORES\\EXERCÍCIOS DE VETORES.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\yran\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.25\\microsoft.windowsdesktop.app.ref.8.0.25.nupkg.sha512",
+    "C:\\Users\\yran\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.25\\microsoft.netcore.app.ref.8.0.25.nupkg.sha512",
+    "C:\\Users\\yran\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.25\\microsoft.aspnetcore.app.ref.8.0.25.nupkg.sha512",
+    "C:\\Users\\yran\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.25\\microsoft.netcore.app.host.win-x64.8.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,14 @@
+C:\Users\yran\Desktop\Faculdade\Esteban Rivas\EXERCÍCIOS DE VETORES\bin\Debug\net8.0\EXERCÍCIOS DE VETORES.exe
+C:\Users\yran\Desktop\Faculdade\Esteban Rivas\EXERCÍCIOS DE VETORES\bin\Debug\net8.0\EXERCÍCIOS DE VETORES.deps.json
+C:\Users\yran\Desktop\Faculdade\Esteban Rivas\EXERCÍCIOS DE VETORES\bin\Debug\net8.0\EXERCÍCIOS DE VETORES.runtimeconfig.json
+C:\Users\yran\Desktop\Faculdade\Esteban Rivas\EXERCÍCIOS DE VETORES\bin\Debug\net8.0\EXERCÍCIOS DE VETORES.dll
+C:\Users\yran\Desktop\Faculdade\Esteban Rivas\EXERCÍCIOS DE VETORES\bin\Debug\net8.0\EXERCÍCIOS DE VETORES.pdb
+C:\Users\yran\Desktop\Faculdade\Esteban Rivas\EXERCÍCIOS DE VETORES\obj\Debug\net8.0\EXERCÍCIOS DE VETORES.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yran\Desktop\Faculdade\Esteban Rivas\EXERCÍCIOS DE VETORES\obj\Debug\net8.0\EXERCÍCIOS DE VETORES.AssemblyInfoInputs.cache
+C:\Users\yran\Desktop\Faculdade\Esteban Rivas\EXERCÍCIOS DE VETORES\obj\Debug\net8.0\EXERCÍCIOS DE VETORES.AssemblyInfo.cs
+C:\Users\yran\Desktop\Faculdade\Esteban Rivas\EXERCÍCIOS DE VETORES\obj\Debug\net8.0\EXERCÍCIOS DE VETORES.csproj.CoreCompileInputs.cache
+C:\Users\yran\Desktop\Faculdade\Esteban Rivas\EXERCÍCIOS DE VETORES\obj\Debug\net8.0\EXERCÍCIOS DE VETORES.dll
+C:\Users\yran\Desktop\Faculdade\Esteban Rivas\EXERCÍCIOS DE VETORES\obj\Debug\net8.0\refint\EXERCÍCIOS DE VETORES.dll
+C:\Users\yran\Desktop\Faculdade\Esteban Rivas\EXERCÍCIOS DE VETORES\obj\Debug\net8.0\EXERCÍCIOS DE VETORES.pdb
+C:\Users\yran\Desktop\Faculdade\Esteban Rivas\EXERCÍCIOS DE VETORES\obj\Debug\net8.0\EXERCÍCIOS DE VETORES.genruntimeconfig.cache
+C:\Users\yran\Desktop\Faculdade\Esteban Rivas\EXERCÍCIOS DE VETORES\obj\Debug\net8.0\ref\EXERCÍCIOS DE VETORES.dll
